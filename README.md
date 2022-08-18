@@ -1,3 +1,3 @@
 # POWeeklyChallenges
 
-All Weekly Challenges wil be here
+All Weekly Challenges will be here
